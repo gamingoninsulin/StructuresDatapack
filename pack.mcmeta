@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "description": "StructureDatapack",
+        "pack_format": 10
+    },
+	"authors": {
+		"autohor_owner": "TelepathicGrunt",
+		"datapack_owner": "GamingOnInsulin"
+	},
+	"special_tanks": {
+		"nr-1": "TelepathicGrunt"
+	}
+}
